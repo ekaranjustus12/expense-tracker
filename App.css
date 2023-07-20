@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  
+}
+ h1{
+  position: absolute;
+  left: 40%;
+  top: 0%;
+  font-size: 25px;
+  font-weight: 400;
+  margin: 10px 20px;
+  padding: 5px 8px;
+  color: red;
+  
+}
+.container{
+  margin: 10px 20px;
+  padding: 5px 8px;
+  
+}
+.container h2{
+  font-size: 15px;
+  margin-top: 30px;
+  padding: 5px;
+  color: blue;
+}
+ .container table{
+   display: flex;
+   flex-direction: column;
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin:5px 8px;
+  font-size: 15px;
+  font-weight: 200;
+  padding: 5px;
+  color: blue;
+
+}
+
+
+
+
+
+
